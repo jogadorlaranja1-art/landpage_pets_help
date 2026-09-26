@@ -21,17 +21,18 @@ header>h1{
     
 }
 
-header>button{
+header>a{
 margin-left: auto;
-  padding: 0px 30px;
+  padding: 20px 30px;
   background-color: #46FE46;
   color: #53679b;
   border: none;
   font-size: 16px;
   border-radius: 50px; 
-  height: 3.5em;
+  height: 1.5em;
   font-weight: 900;
   font-size: 20px;
+  text-decoration: none;
 }
 
 main{
