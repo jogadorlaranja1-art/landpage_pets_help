@@ -100,6 +100,10 @@ input{
     font-size: 30px;
 }
 
-::placeholder{
-    color: #46FE46;
+.junta{
+    display: flex;
+}
+.junta>p{
+    width: 13%;
+    font-size: 3em;
 }
